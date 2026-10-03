@@ -1,3 +1,5 @@
+# Ejercicio_Ladder_Tanque
+
 Repositorio dedicado a la documentación del ejercicio de Lógica Combinacional/Ladder 2.3 del tanque de líquido químico. Para la materia Internet Industrial de Las Cosas.
 
 Acá se podrán encontrar códigos tanto de CodeSys como de OpenPLC, la demostración del funcionamiento en video y la Wiki de documentación.
